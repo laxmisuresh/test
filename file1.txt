@@ -2,3 +2,5 @@ Initial version
 second line inserted to readme.txt master branch
 third line inserted to readme.txt master branch
 Bug1234 fix
+
+Adding code for feature 3 which is branched from tag v1.0
